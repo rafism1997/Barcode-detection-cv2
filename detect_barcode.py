@@ -1,5 +1,5 @@
 # import the necessary packages
-from pyimagesearch import simple_barcode_detection
+from simple_barcode_detection import detect
 from imutils.video import VideoStream
 import argparse
 import time
